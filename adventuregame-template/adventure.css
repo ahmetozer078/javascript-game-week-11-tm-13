@@ -1,0 +1,63 @@
+#inventoryItem{
+	display: none;
+}
+.bmwkey{
+	position: absolute;
+	top: 86%;
+	left: 88%;
+}
+.bmwkeyy{
+	position: absolute;
+	top: 75%;
+	left: 63%;
+}
+.mafiamap{
+	position: absolute;
+	top: 69%;
+	right: 25%;
+}
+.MafiaAgenda{
+	position: absolute;
+	top: 82%;
+	right: 21%;
+}
+body{
+	background-size: cover;
+	font-family: 'Bebas Neue', cursive;
+}
+
+.gamecontainer{
+	position: relative;
+}
+#button1{
+	position: absolute;
+	top: 80%;
+	left: 19%;
+	padding: 9px;
+}
+
+#button2{
+	position: absolute;
+	top: 80%;
+	left: 49%;
+	padding: 9px;
+
+}
+#button3{
+	position: absolute;
+	top: 80%;
+	right: 19%;
+	padding: 9px;
+}
+h1{
+	text-align: center;
+	color: #EA2027;
+}
+#description{
+	text-align: center;
+	font-size: 28px;
+	color: #EA2027;
+}
+#sleutel{
+	height: 50px;
+}
